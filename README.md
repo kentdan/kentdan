@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @kentdan a machine learning engineer
+- 👋 Hi I’m kent, machine learning engineer in Taipei
